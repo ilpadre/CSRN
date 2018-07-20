@@ -1,0 +1,7 @@
+C:\Users\ken.baum\Documents\Personal\Professional Development\Deliberate Practice\TDD\RN\RN\RN\bin\Debug\RN.exe.config
+C:\Users\ken.baum\Documents\Personal\Professional Development\Deliberate Practice\TDD\RN\RN\RN\bin\Debug\RN.exe
+C:\Users\ken.baum\Documents\Personal\Professional Development\Deliberate Practice\TDD\RN\RN\RN\bin\Debug\RN.pdb
+C:\Users\ken.baum\Documents\Personal\Professional Development\Deliberate Practice\TDD\RN\RN\RN\obj\Debug\RN.csprojResolveAssemblyReference.cache
+C:\Users\ken.baum\Documents\Personal\Professional Development\Deliberate Practice\TDD\RN\RN\RN\obj\Debug\RN.csproj.CoreCompileInputs.cache
+C:\Users\ken.baum\Documents\Personal\Professional Development\Deliberate Practice\TDD\RN\RN\RN\obj\Debug\RN.exe
+C:\Users\ken.baum\Documents\Personal\Professional Development\Deliberate Practice\TDD\RN\RN\RN\obj\Debug\RN.pdb
